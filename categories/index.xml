@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - 分类 - jason‘s record</title>
+        <link>http://example.org/categories/</link>
+        <description>Categories - 分类 - jason‘s record</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>jasonchen8008800@gmail.com (jason chen)</managingEditor>
+            <webMaster>jasonchen8008800@gmail.com (jason chen)</webMaster><atom:link href="http://example.org/categories/" rel="self" type="application/rss+xml" /></channel>
+</rss>

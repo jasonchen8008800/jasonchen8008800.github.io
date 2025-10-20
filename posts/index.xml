@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - jason‘s record</title>
+        <link>http://example.org/posts/</link>
+        <description>所有文章 | jason‘s record</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>jasonchen8008800@gmail.com (jason chen)</managingEditor>
+            <webMaster>jasonchen8008800@gmail.com (jason chen)</webMaster><lastBuildDate>Tue, 21 Oct 2025 01:29:49 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>http://example.org/first_post/</link>
+    <pubDate>Tue, 21 Oct 2025 01:29:49 &#43;0800</pubDate><author>
+        <name>jason chen</name>
+    </author><guid>http://example.org/first_post/</guid>
+    <description><![CDATA[<p>1231231231231321323123123123</p>]]></description>
+</item></channel>
+</rss>
