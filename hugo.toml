@@ -1,4 +1,0 @@
-baseURL = 'https://example.org/'
-languageCode = 'zh_cn'
-title = 'test blog'
-theme='no-style-please'
